@@ -50,6 +50,9 @@ Target Key Demographics:
 Develop marketing strategies to engage the 18–30 age group and low-income segments.
 Create specific products or promotions for retirees and blue-collar workers.
 
+
+https://github.com/vnpokale/-BIG-DATA-ANALYSIS---TASK--1
+
 Enhance Customer Satisfaction:
 
 Focus on improving services in areas that received low ratings (1 and 2).
